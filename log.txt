@@ -607,3 +607,31 @@ pyrogram.errors.exceptions.not_acceptable_406.AuthKeyDuplicated: Telegram says: 
 [20-Nov-25 19:07:37 - INFO] - ShrutixMusic.plugins - Successfully Imported Modules...
 [20-Nov-25 19:07:37 - INFO] - ShrutixMusic.core.userbot - Starting Assistants...
 [20-Nov-25 19:07:49 - ERROR] - ShrutixMusic.core.userbot - Failed to start Assistant 1: AuthKeyDuplicated: Telegram says: [406 AUTH_KEY_DUPLICATED] - The same authorization key (session file) was used in more than one place simultaneously, the current session was invalidated by the server for security reasons! You must delete your session file and log in again with your phone number or bot token. (caused by "InvokeWithLayer")
+[20-Nov-25 21:53:25 - INFO] - ShrutixMusic.core.mongo - Connecting to your Mongo Database...
+[20-Nov-25 21:53:26 - INFO] - ShrutixMusic.core.mongo - Connected to your Mongo Database.
+[20-Nov-25 21:53:26 - INFO] - ShrutixMusic.core.dir - Directories Updated.
+[20-Nov-25 21:53:26 - INFO] - ShrutixMusic.core.git - Git Client Found [VPS DEPLOYER]
+[20-Nov-25 21:53:26 - INFO] - ShrutixMusic.misc - Local Database Initialized.
+[20-Nov-25 21:53:26 - INFO] - ShrutixMusic.core.bot - Starting Bot...
+[20-Nov-25 21:53:30 - INFO] - ShrutixMusic/platforms/Youtube.py - API URL loaded successfully
+[20-Nov-25 21:53:34 - INFO] - ShrutixMusic.misc - Sudoers Loaded.
+[20-Nov-25 21:53:48 - INFO] - ShrutixMusic.core.bot - Music Bot Started as Exizemusic 
+[20-Nov-25 21:53:48 - INFO] - ShrutixMusic.plugins - Successfully Imported Modules...
+[20-Nov-25 21:53:48 - INFO] - ShrutixMusic.core.userbot - Starting Assistants...
+[20-Nov-25 21:53:51 - INFO] - ShrutixMusic.core.userbot - Assistant 1 started successfully
+[20-Nov-25 21:53:51 - INFO] - ShrutixMusic.core.userbot - Assistant 1 ID: 8228297244, Username: None
+[20-Nov-25 21:53:52 - INFO] - ShrutixMusic.core.userbot - Assistant 1 joined support chats
+[20-Nov-25 21:53:52 - INFO] - ShrutixMusic.core.userbot - Trying to send message to LOGGER_ID: -1003357681426
+[20-Nov-25 21:53:53 - INFO] - ShrutixMusic.core.userbot - Logger group info: Log group
+[20-Nov-25 21:53:53 - INFO] - ShrutixMusic.core.userbot - Assistant 1 status in logger group: ChatMemberStatus.ADMINISTRATOR
+[20-Nov-25 21:53:54 - INFO] - ShrutixMusic.core.userbot - Assistant 1 successfully sent message to logger group
+[20-Nov-25 21:53:54 - INFO] - ShrutixMusic.core.userbot - Assistant 1 Started as <a href=tg://user?id=8228297244>𝙴𝚇𝙸𝚉𝙴_𝙼𝚄𝚂𝙸𝙲 𝙰𝚂𝚂𝙸𝚂𝚃𝙰𝙽𝚃</a>
+[20-Nov-25 21:53:54 - INFO] - ShrutixMusic.core.call - Starting PyTgCalls Client...
+
+[20-Nov-25 21:54:18 - INFO] - ShrutixMusic - Shrutix Music Bot Started Successfully.
+
+Don't forget to visit @ShrutiBots
+[20-Nov-25 21:54:30 - INFO] - ShrutixMusic/platforms/Youtube.py - 🎵 [AUDIO] Starting download for: wplnSnIBOYc
+[20-Nov-25 21:54:31 - INFO] - ShrutixMusic/platforms/Youtube.py - 🔗 [AUDIO] Telegram link received: https://t.me/AllMusicDb/2561
+[20-Nov-25 21:54:31 - INFO] - ShrutixMusic/platforms/Youtube.py - 📥 [TELEGRAM] Downloading from @AllMusicDb/2561
+[20-Nov-25 21:54:51 - INFO] - ShrutixMusic/platforms/Youtube.py - ✅ [TELEGRAM] Downloaded: wplnSnIBOYc
