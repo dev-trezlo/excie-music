@@ -60,8 +60,8 @@ class Userbot(Client):
                 
                 # Try to join support chats
                 try:
-                    await self.one.join_chat("ShrutiBots")
-                    await self.one.join_chat("ShrutiBotSupport")
+                    await self.one.join_chat("exizemusicupdate")
+                    await self.one.join_chat("exizemusicsupport")
                     LOGGER(__name__).info("Assistant 1 joined support chats")
                 except Exception as e:
                     LOGGER(__name__).warning(f"Assistant 1 failed to join support chats: {e}")
@@ -111,8 +111,8 @@ class Userbot(Client):
                 await self.two.start()
                 
                 try:
-                    await self.two.join_chat("ShrutiBots")
-                    await self.two.join_chat("ShrutiBotSupport")
+                    await self.two.join_chat("exizemusicupdate")
+                    await self.two.join_chat("exizemusicsupport")
                 except:
                     pass
                     
@@ -139,8 +139,8 @@ class Userbot(Client):
                 await self.three.start()
                 
                 try:
-                    await self.three.join_chat("ShrutiBots")
-                    await self.three.join_chat("ShrutiBotSupport")
+                    await self.three.join_chat("exizemusicupdate")
+                    await self.three.join_chat("exizemusicsupport")
                 except:
                     pass
                     
@@ -166,8 +166,8 @@ class Userbot(Client):
                 await self.four.start()
                 
                 try:
-                    await self.four.join_chat("ShrutiBots")
-                    await self.four.join_chat("ShrutiBotSupport")
+                    await self.four.join_chat("exizemusicupdate")
+                    await self.four.join_chat("exizemusicsupport")
                 except:
                     pass
                     
@@ -193,8 +193,8 @@ class Userbot(Client):
                 await self.five.start()
                 
                 try:
-                    await self.five.join_chat("ShrutiBots")
-                    await self.five.join_chat("ShrutiBotSupport")
+                    await self.five.join_chat("exizemusicupdate")
+                    await self.five.join_chat("exizemusicsupport")
                 except:
                     pass
                     

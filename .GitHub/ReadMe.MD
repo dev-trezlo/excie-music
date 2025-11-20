@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/ShrutiBots"><img src="https://img.shields.io/badge/Support%20Channel-blue?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/ShrutiBots" alt="Support Channel"></a>
-  <a href="https://t.me/ShrutiBotSupport"><img src="https://img.shields.io/badge/Support%20Group-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Support Group"></a>
+  <a href="https://t.me/exizemusicupdate"><img src="https://img.shields.io/badge/Support%20Channel-blue?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/exizemusicupdate" alt="Support Channel"></a>
+  <a href="https://t.me/exizemusicsupport"><img src="https://img.shields.io/badge/Support%20Group-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Support Group"></a>
   <a href="https://t.me/WTF_WhyMeeh"><img src="https://img.shields.io/badge/Owner-purple?style=for-the-badge&logo=telegram&logoColor=white" alt="Owner"></a>
 </p>
 
@@ -178,8 +178,8 @@ LOG_GROUP_ID=-100xxxxxxxxx
 LOG_CHANNEL_ID=-100xxxxxxxxx
 
 # Support Links
-SUPPORT_GROUP=https://t.me/ShrutiBotSupport
-SUPPORT_CHANNEL=https://t.me/ShrutiBots
+SUPPORT_GROUP=https://t.me/exizemusicsupport
+SUPPORT_CHANNEL=https://t.me/exizemusicupdate
 
 # Music Settings
 DURATION_LIMIT_MIN=1440
@@ -518,8 +518,8 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ## 🔗 Important Links
 
 ### **Support & Community**
-- 📢 **Support Channel**: [@ShrutiBots](https://t.me/ShrutiBots)
-- 💬 **Support Group**: [@ShrutiBotSupport](https://t.me/ShrutiBotSupport)
+- 📢 **Support Channel**: [@exizemusicupdate](https://t.me/exizemusicupdate)
+- 💬 **Support Group**: [@exizemusicsupport](https://t.me/exizemusicsupport)
 - 🔧 **Session Generator**: [@ShrutiSessionBot](https://t.me/ShrutiSessionBot)
 
 ### **Developer Resources**
